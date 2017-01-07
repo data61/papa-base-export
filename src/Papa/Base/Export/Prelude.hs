@@ -14,7 +14,7 @@ import Prelude as Prelude(
   , Monoid 
 --, enumFrom
 --, mapM                       Papa.Core.Data.Traversable
-  , scanr1
+--, scanr1
 --, ($!) 
 --, enumFromThen
 --, mapM_                      Papa.Core.Data.Foldable
@@ -221,13 +221,13 @@ import Prelude as Prelude(
 --, userError
   , IO 
   , curry 
-  , iterate 
+--, iterate 
   , rem 
   , words
   , IOError 
   , cycle 
 --, last                       Papa.Prelude.Lens.Data.List
-  , repeat 
+--, repeat 
   , writeFile
   , Int 
   , decodeFloat
@@ -261,5 +261,5 @@ import Prelude as Prelude(
     ) 
   , elem 
 --, lookup                     Papa.Core.Data.List
-  , scanl1
+--, scanl1
  ) 

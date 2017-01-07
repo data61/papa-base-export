@@ -12,7 +12,5 @@ import Data.Monoid as P(
   , Any(getAny)
   , Sum(getSum)
   , Product(getProduct)
-  , First(getFirst)
-  , Last(getLast)
   , Alt(getAlt)
   )

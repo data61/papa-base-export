@@ -22,12 +22,8 @@ import Data.List as P(
   , all
   , sum
   , product
-  , scanl
-  , scanr
   , mapAccumL
   , mapAccumR
-  , iterate
-  , repeat
   , replicate
   , cycle
   , take
@@ -58,7 +54,6 @@ import Data.List as P(
   , intersect
   , sort
   , sortOn
-  , insert
   , nubBy
   , deleteBy
   , deleteFirstsBy
