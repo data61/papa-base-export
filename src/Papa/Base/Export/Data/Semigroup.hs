@@ -15,7 +15,7 @@ import Data.Semigroup as P(
   , First(getFirst)
   , Last(getLast)
   , WrappedMonoid(unwrapMonoid)
-  , Monoid(mempty, mappend, mconcat)
+  , Monoid(mempty, mappend)
   , Dual(getDual)
   , Endo(appEndo)
   , All(getAll)
