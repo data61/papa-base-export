@@ -41,12 +41,27 @@ library
                     Papa.Base.Export
                     Papa.Base.Export.Control.Applicative
                     Papa.Base.Export.Control.Category
+                    Papa.Base.Export.Control.Monad
+                    Papa.Base.Export.Data.Bool
+                    Papa.Base.Export.Data.Char
+                    Papa.Base.Export.Data.Either
+                    Papa.Base.Export.Data.Eq
                     Papa.Base.Export.Data.Foldable
+                    Papa.Base.Export.Data.Function
                     Papa.Base.Export.Data.Functor
+                    Papa.Base.Export.Data.Int
                     Papa.Base.Export.Data.List
+                    Papa.Base.Export.Data.List.NonEmpty
+                    Papa.Base.Export.Data.Maybe
                     Papa.Base.Export.Data.Monoid
+                    Papa.Base.Export.Data.Ord
+                    Papa.Base.Export.Data.Ratio
+                    Papa.Base.Export.Data.Semigroup
+                    Papa.Base.Export.Data.String
                     Papa.Base.Export.Data.Traversable
-                    
+                    Papa.Base.Export.Data.Void
+                    Papa.Base.Export.Prelude
+
 test-suite doctests
   type:
                     exitcode-stdio-1.0
