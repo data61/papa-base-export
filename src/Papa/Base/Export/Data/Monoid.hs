@@ -12,5 +12,4 @@ import Data.Monoid as P(
   , Any(getAny)
   , Sum(getSum)
   , Product(getProduct)
-  , Alt(getAlt)
   )

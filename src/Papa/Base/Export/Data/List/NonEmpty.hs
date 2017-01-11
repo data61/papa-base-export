@@ -10,7 +10,6 @@ import Data.List.NonEmpty as P(
   , scanr
   , scanl1
   , scanr1
-  , (<|)
   , inits
   , tails
   , iterate
